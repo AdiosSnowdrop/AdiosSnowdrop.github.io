@@ -1,4 +1,4 @@
-baseURL: "minato-yui.me/"
+baseURL: "http://minato-yui.me/"
 title: Minato's Blog
 paginate: 5
 theme: PaperMod
